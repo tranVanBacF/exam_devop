@@ -17,3 +17,4 @@ docker build -t devop
 # run container
 docker run --network=devop -d --name=devop_server -p 8080:8080 devop
 
+https://jenkins.learn.akawork.io/job/Bactv2_cau3/
